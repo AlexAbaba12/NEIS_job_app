@@ -1,4 +1,4 @@
-# NEIS - Naga Employment Information System 
+# NEIS - Naga Employment Information System (Job Application Process Module)
 
 NEIS is a modern, full-stack job application platform designed specifically for the Naga City community. It consists of a feature-rich Android mobile application for job seekers and a comprehensive web-based admin panel for employers and administrators.
 
